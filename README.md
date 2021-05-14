@@ -1,3 +1,2 @@
 # Test
-On Local
-On Main
+Check conflict
