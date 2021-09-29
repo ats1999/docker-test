@@ -1,4 +1,4 @@
-const express = require("express");
+import express from "express";
 const app = express();
 
 app.get("/",(_,res)=>res.send("Hello Our Mode on"));
