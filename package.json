@@ -8,7 +8,7 @@
     "node": "12.x"
   },
   "scripts": {
-    "start": "node index.js",
+    "start": "node --experimental-modules --es-module-specifier-resolution=node inxex.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
